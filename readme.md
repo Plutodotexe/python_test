@@ -3,6 +3,7 @@
 - int
 - float
 - string
+- list
 ## Boolean
 ## Expression
 ## Variable
